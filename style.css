@@ -44,7 +44,7 @@ body {
 .python {
   background: #000;
   color: #fff;
-  cursor: alias;
+  cursor: default;
   padding: 0.1rem 0.5rem;
   border: 0.1rem solid #000;
   border-radius: 0.3rem;
