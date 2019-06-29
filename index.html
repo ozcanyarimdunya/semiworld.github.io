@@ -16,18 +16,10 @@
       *::before {
         box-sizing: border-box;
       }
-      
       ::selection {
-        background: #000000;
-      }
-
-      ::-moz-selection {
-        background: #000000;
-      }
-      img::selection {
         background: transparent;
       }
-      img::-moz-selection {
+      ::-moz-selection {
         background: transparent;
       }
       body {
@@ -92,6 +84,7 @@
         -moz-user-select: none;
         -ms-user-select: none;
         user-select: none;
+        cursor: url("public/python.png"), auto;
       }
       .python:hover {
         background: #fff;
