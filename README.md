@@ -1,3 +1,3 @@
 ### My personal website
 
-[http://semiworld.org](http://semiworld.org)
+[https://semiworld.org](https://semiworld.org)
